@@ -1,0 +1,17 @@
+Starting Nmap 7.91 (https://nmap.org) at 2021-05-09 15:49 EEST
+Nmap scan report for 192.168.43.1
+Host is up (0.012s latency).
+
+MAC Address: 80:35:C1:2C:7C:30 (Xiaomi Communications)
+Nmap scan report for 192.168.43.181
+Host is up (0.37s latency).
+
+MAC Address: EC:D0:9E:00:B2:80 (Xiaomi Communications)
+Nmap scan report for 192.168.43.254
+Host is up (0.18s latency).
+
+MAC Address: 12:94:BE:B5:43:73 (Unknown)
+Nmap scan report for 192.168.43.111
+Host is up.
+
+Nmap done: 256 IP addresses (4 hosts up) scanned in 7.08 seconds
